@@ -1,3 +1,4 @@
 # mlcode
-meachine ‘love’ 的一些代码
+
+![tensor学习动态](https://github.com/charlesld/mlcode/blob/master/tensordygraphic.gif)
 
