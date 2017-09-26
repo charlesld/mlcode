@@ -13,3 +13,9 @@
 
 [rollingcarnum.py](https://github.com/charlesld/mlcode/blob/master/rollingcarnum.py)
 > rollingcarnum.py 是杭州摇车牌的简略分析，目前只做了重名分析。本地数据可以看出，大概可以看出短名字更容易摇中
+
+```python
+dda = text.replace(r"", "")
+
+# 这个中间有个大写的↑箭头，从pdf而来。可以print text 查看后替换，这里网页被屏蔽。。
+```
