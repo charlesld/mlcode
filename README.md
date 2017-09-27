@@ -43,6 +43,6 @@ dda = text.replace(r"↑", "")
 
 ![车牌摇号分析](https://github.com/charlesld/mlcode/blob/master/pics/hzyh2.png)
 
-###### 第三张图，我觉得是彩蛋，这里可以用来作为改名指南，数据里，命中最高的名字居然被反复抽中101次。
+###### 第三张图，应是彩蛋，这里可以用来作为改名指南，数据里，命中最高的名字居然被反复抽中101次。我觉得这里是重点【敲黑板】不打针，不吃药助你轻轻松摇到号，就是按图进行改名，分分钟就成为拥有浙A的人生赢家！
 
 ![改名指南](https://github.com/charlesld/mlcode/blob/master/pics/image2.png)
