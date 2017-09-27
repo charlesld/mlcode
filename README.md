@@ -9,7 +9,7 @@
 
 
 
-#### CODE
+#### 杭州车牌摇号分析
 
 [rollingcarnum.py](https://github.com/charlesld/mlcode/blob/master/rollingcarnum.py)
 > rollingcarnum.py 是杭州摇车牌的简略分析，目前只做了重名分析。本地数据可以看出，大概可以看出短名字更容易摇中
@@ -23,6 +23,8 @@ dda = text.replace(r"↑", "")
 ##### 简析摇号完整数据
 
 昨天数据炸一看，感觉政府偏心，感觉车牌总是给那些短名字的人准备的，今天从摇号的官网爬了完整的数据，再看了一下。
+
+[代码链接](https://github.com/charlesld/mlcode/blob/master/rollingcarcard/crawlrolldata.py)
 
 > 程序运行结果如下
 
