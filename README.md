@@ -1,14 +1,15 @@
 # mlcode
 
-### 动态梯度学习，计算loss
+### 【算法】机器学习相关
+#### 动态梯度学习，计算loss
 [dyplotLine.py](https://github.com/charlesld/mlcode/blob/master/dyplotLine.py)
 
 > 图片描述的是，对于给定的数据，通过梯度下降不断进行学习，求解最小loss，最后使得通过w b计算的值逼近原数据
 
 ![tensor学习动态](https://github.com/charlesld/mlcode/blob/master/tensordygraphic.gif)
 
-### 线进程相关
-
+#
+### 【辅助插件，外挂相关】
 #### python2 多线程锁功能单一，不引入三方组件进行修饰，支持超时任务
 [代码这里](https://github.com/charlesld/mlcode/blob/master/mutiprocess/lock_wait_expire_for_py2.py)
 
@@ -22,8 +23,10 @@ can't get file lock 302 , pass this step
 port 301 is running over  
 
 ```
+#
 
-### 杭州车牌摇号分析
+### 【实战】数据分析相关
+#### 杭州车牌摇号分析
 
 [rollingcarnum.py](https://github.com/charlesld/mlcode/blob/master/rollingcarnum.py)
 > rollingcarnum.py 是杭州摇车牌的简略分析，目前只做了重名分析。本地数据可以看出，大概可以看出短名字更容易摇中
