@@ -7,7 +7,21 @@
 
 ![tensor学习动态](https://github.com/charlesld/mlcode/blob/master/tensordygraphic.gif)
 
+### 线进程相关
 
+#### python2 多线程锁功能单一，不引入三方组件进行修饰，支持超时任务
+[代码这里](https://github.com/charlesld/mlcode/blob/master/mutiprocess/lock_wait_expire_for_py2.py)
+
+> 运行实例
+
+```python
+start the mission for port 301 
+start the mission for port 302 
+port is 301
+can't get file lock 302 , pass this step
+port 301 is running over  
+
+```
 
 ### 杭州车牌摇号分析
 
