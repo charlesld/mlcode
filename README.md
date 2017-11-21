@@ -23,6 +23,25 @@ can't get file lock 302 , pass this step
 port 301 is running over  
 
 ```
+
+#### 复杂json指定内容修改，代码做些技巧，支持迭代过程中对字典进行修改
+[代码这里](https://github.com/charlesld/mlcode/blob/master/dataanaly/modifylocaljsonfile.py)
+
+> 运行实例
+
+```shell
+
+#读取 sa.json 文件
+#生成 sa2.json 文件，文件中的所有uidd全部被修改成指定内容
+
+#运行输出
+aucctions
+uidd 8999211293481sasdja
+new : uidd helloworld
+uidd 8999211293481sasdja
+new : uidd helloworld
+```
+
 #
 
 ### 【实战】数据分析相关
