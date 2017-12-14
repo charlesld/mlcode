@@ -42,7 +42,7 @@ uidd 8999211293481sasdja
 new : uidd helloworld
 ```
 
-#### 任务调度时，资源分配，主要优先级辅以时间
+#### 任务调度时，资源动态分配，主要优先级辅以时间
 [代码这里](https://github.com/charlesld/mlcode/blob/master/dataanaly/bandwithshape.py)
 
 > 运行实例
